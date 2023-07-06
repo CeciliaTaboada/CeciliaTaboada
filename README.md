@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ceci 🧉</h1>
 <h3 align="center">A Software Development Student 🤓 working on my Backend skills 👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on [an MeLi Clon](https://github.com/CeciliaTaboada/Meli-clon)
+- 🔭 I’m currently working on [a MeLi Clon](https://github.com/CeciliaTaboada/Meli-clon)
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CeciliaTaboada/](https://github.com/CeciliaTaboada/)
 
