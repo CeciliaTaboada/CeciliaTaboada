@@ -5,6 +5,8 @@
 
 - 🌱 I’m practicing **Flask, SASS & JavaScript**
 
+- 🐋 I'm learning **Docker**
+
 - 👨‍💻 All of my projects are available at [https://github.com/CeciliaTaboada/](https://github.com/CeciliaTaboada/)
 
 - 📫 How to reach me **ceciliataboada1@gmail.com**
