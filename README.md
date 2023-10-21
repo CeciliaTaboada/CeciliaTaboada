@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ceci 🧉</h1>
-<h3 align="center">A Software Development Student 🤓 working on my programming skills 👩🏻‍💻</h3>
+<h3 align="center">A Software Development Student 🤓 working on my programming and soft skills 👩🏻‍💻</h3>
 
-- 🔭 I’m currently working on [a investment controller](https://github.com/CeciliaTaboada/Controlador-de-gastos-web)
+- 🔭 I’m currently looking for a job 🫱🏻‍🫲🏻
 
-- 🌱 I’m practicing **Flask, SASS & JavaScript**
+- 🌱 I’m practicing **JavaScript and Python at University**
 
-- 🐋 I'm learning **Docker**
+- 🐋 I'm learning **Java and Cybersecurity** 🥷🏻
 
 - 👨‍💻 All of my projects are available at [https://github.com/CeciliaTaboada/](https://github.com/CeciliaTaboada/)
 
